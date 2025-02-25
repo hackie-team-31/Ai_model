@@ -1,2 +1,2 @@
 # Ai_model
-Open AI APi for LLM personalization 
+Open AI API for LLM personalization 
